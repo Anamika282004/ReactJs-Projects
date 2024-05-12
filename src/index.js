@@ -5,5 +5,6 @@ import Sum from './Component/Sum';
 import BMI from './Component/BMI';
 import Timer from './Component/Timer';
 import Todo from './Component/Todo';
+import Qr from './Component/Qr';
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Todo/>)
+root.render(<Qr/>);
