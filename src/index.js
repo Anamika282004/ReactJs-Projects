@@ -6,5 +6,6 @@ import BMI from './Component/BMI';
 import Timer from './Component/Timer';
 import Todo from './Component/Todo';
 import Qr from './Component/Qr';
+import GithubProfile from './Component/GithubProfile';
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Qr/>);
+root.render(<GithubProfile/>);
