@@ -1,4 +1,5 @@
 import React from 'react'
+//import actovity
 import User from './User'
 
 function GithubProfile() {
