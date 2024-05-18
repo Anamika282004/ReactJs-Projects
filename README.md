@@ -1,1 +1,1 @@
-BMI ,SUM CALCULATOR and QR GENERATOR
+BMI Calculator , QR code generator , Timer and Sum calculator
