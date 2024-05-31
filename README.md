@@ -1,6 +1,6 @@
 BMI Calculator 
 QR code generator 
-3. Timer  
-4. Sum calculator.
+Timer  
+ Sum calculator.
 Basic programs in React js(A library by react)
 interesting  project in react
